@@ -1,0 +1,88 @@
+---
+__domain__.yaml:
+  classes: 1
+  instances: 1
+  method_files: 1
+  method_instances: 1
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &1 2016-12-08 21:34:21.837351000 Z
+    zone: &2 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: *1
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &3 2016-12-09 03:51:02.828694000 Z
+    zone: *2
+    time: *3
+  size: 198
+  sha1: lJZoiaPSoG3nOLJ7g9ncLpBECCg=
+Utilities/Infrastructure/__namespace__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &4 2016-12-08 21:34:29.477160000 Z
+    zone: *2
+    time: *4
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &5 2016-12-08 21:34:29.477160000 Z
+    zone: *2
+    time: *5
+  size: 166
+  sha1: LcLZvSoaI1TwN8Qk3C0BuLzOhQQ=
+Utilities/Infrastructure/VM/__namespace__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &6 2016-12-08 21:34:29.478851000 Z
+    zone: *2
+    time: *6
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &7 2016-12-08 21:34:29.478851000 Z
+    zone: *2
+    time: *7
+  size: 154
+  sha1: 3RSCLo/Rm2MTjJcHQBgzB0pxtqg=
+Utilities/Infrastructure/VM/Provisioning/__namespace__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &8 2016-12-08 21:34:29.480219000 Z
+    zone: *2
+    time: *8
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &9 2016-12-08 21:34:29.480219000 Z
+    zone: *2
+    time: *9
+  size: 164
+  sha1: IfcxDJ844lczST9d/ej9/JN76u4=
+Utilities/Infrastructure/VM/Provisioning/Naming.class/__class__.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &10 2016-12-08 21:34:29.483624000 Z
+    zone: *2
+    time: *10
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &11 2016-12-08 21:34:29.494399000 Z
+    zone: *2
+    time: *11
+  size: 2423
+  sha1: tFGNMJZJ8xlrNNcZBs79yfCP1Vs=
+Utilities/Infrastructure/VM/Provisioning/Naming.class/default.yaml:
+  created_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &12 2016-12-08 21:34:29.517961000 Z
+    zone: *2
+    time: *12
+  updated_on: !ruby/object:ActiveSupport::TimeWithZone
+    utc: &13 2016-12-08 21:34:29.528033000 Z
+    zone: *2
+    time: *13
+  size: 172
+  sha1: RHAorVejM85X82gNNlYCZQzfPRA=
+Utilities/Infrastructure/VM/Provisioning/Naming.class/__methods__/vmname.rb:
+  created_on: &16 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &14 2016-12-08 21:34:36.326987000 Z
+    zone: *2
+    time: *14
+  updated_on: &17 !ruby/object:ActiveSupport::TimeWithZone
+    utc: &15 2016-12-09 03:50:43.573194000 Z
+    zone: *2
+    time: *15
+  size: 4450
+  sha1: nKQwTZq8JlyHFGgK2d5koVTW4mk=
+Utilities/Infrastructure/VM/Provisioning/Naming.class/__methods__/vmname.yaml:
+  created_on: *16
+  updated_on: *17
+  size: 193
+  sha1: 4DX41x9Dh/I1fAGfd/0y2oQVBFo=
